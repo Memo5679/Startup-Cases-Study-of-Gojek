@@ -1,5 +1,6 @@
 # Startup-Cases-Study-of-Gojek
 Startup Cases Study of Gojek is (an app-based transportation startup made by Nadiem Makarim in 2009. The main service provided by the company is ride hailing services and logistic).
+
 By dissecting real Startup case studies, examining successes and failures in the context of the
 market, and observing the tactics used by today’s most successful small business ventures. So I prepared a professional report containing the following sections:
 1. Overview of the Start-up
